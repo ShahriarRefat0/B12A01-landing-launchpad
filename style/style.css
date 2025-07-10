@@ -198,6 +198,42 @@ padding-bottom: 8px;
   color: #B3B3B3;
 }
 
+/* focus-section */
+
+.focus-section{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 70px 150px;
+}
+
+.focus-img{
+  border-radius: 50px;
+}
+
+.get-start-btn{
+  height: 48px;
+    width: 195px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.focus-title{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.focus-sub-title{
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
 /* In Touch Section */
 
 /* .intouch-section{
