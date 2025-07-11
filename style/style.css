@@ -8,6 +8,7 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+
 body {
   background-color: #f5f8ff;
 }
@@ -17,7 +18,7 @@ body {
 header {
   width: 100%;
   height: 698px;
-  background-image: url("/Assets/Hero-bg.png");
+  background-image: url("../Assets/Hero-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -267,7 +268,7 @@ section {
   color: rgba(0, 0, 0, 0.5);
 }
 
-/* In Touch Section */
+/* In-Touch Section */
 
 .intouch-section {
   display: flex;
